@@ -1,0 +1,15 @@
+C:\Users\mauricio.barg\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp2.2\win-x86\hostpolicy.dll
+C:\Users\mauricio.barg\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp2.2\win-x86\hostfxr.dll
+C:\Users\mauricio.barg\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp2.2\win-x86\ConsoleApp1.exe
+C:\Users\mauricio.barg\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp2.2\win-x86\ConsoleApp1.deps.json
+C:\Users\mauricio.barg\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp2.2\win-x86\ConsoleApp1.runtimeconfig.json
+C:\Users\mauricio.barg\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp2.2\win-x86\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\mauricio.barg\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp2.2\win-x86\ConsoleApp1.dll
+C:\Users\mauricio.barg\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp2.2\win-x86\ConsoleApp1.pdb
+C:\Users\mauricio.barg\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp2.2\win-x86\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\mauricio.barg\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp2.2\win-x86\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\mauricio.barg\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp2.2\win-x86\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\mauricio.barg\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp2.2\win-x86\ConsoleApp1.AssemblyInfo.cs
+C:\Users\mauricio.barg\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp2.2\win-x86\ConsoleApp1.dll
+C:\Users\mauricio.barg\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp2.2\win-x86\ConsoleApp1.pdb
+C:\Users\mauricio.barg\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp2.2\win-x86\network_analyzer.exe

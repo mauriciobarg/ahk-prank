@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "a0635f984c66166cd3b047f3371df25cc1376d9d"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "ConsoleApp1/1.0.0": {
+        "dependencies": {
+          "CSharpLib": "2.4.5"
+        },
+        "runtime": {
+          "ConsoleApp1.dll": {}
+        }
+      },
+      "CSharpLib/2.4.5": {
+        "runtime": {
+          "lib/CSharpLib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CSharpLib/2.4.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PTf8KfYF8wARZnM1WsXz3m5EmPnhN+2TtFWDmsMZpOl5JjqIFYfS7cXVlCBIC2Vh2txmgwklbKHGdm8AnB06Tg==",
+      "path": "csharplib/2.4.5",
+      "hashPath": "csharplib.2.4.5.nupkg.sha512"
+    }
+  }
+}
